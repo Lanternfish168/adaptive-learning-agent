@@ -116,6 +116,10 @@ Day 3: If / Else
 
 ---
 
+## License
+
+This project is intended for educational and portfolio purposes.
+
 ## Author
 
 Lanternfish168

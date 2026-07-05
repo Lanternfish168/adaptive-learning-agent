@@ -24,8 +24,10 @@ The goal is to provide adaptive learning recommendations for students based on t
 ## Technologies
 
 - Python
-- Google Gemini API
+- Google Gemini 2.5 Flash
+- Google GenAI SDK
 - Kaggle Notebook
+- Kaggle Secrets
 - GitHub
 
 ---

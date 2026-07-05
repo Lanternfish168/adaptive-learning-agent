@@ -62,6 +62,10 @@ Personalized Study Plan
 ## Example Output
 
 ```text
+============================================================
+ADAPTIVE FEEDBACK
+============================================================
+
 Performance Summary
 -------------------
 Score: 2 / 5
@@ -77,19 +81,20 @@ Weaknesses
 - Functions
 - Python Basics
 
-Recommended Topics
+What to Study Next
 ------------------
 - Variables
 - Loops
 - Functions
 - Lists
 
-Personalized One-Week Study Plan
---------------------------------
+One-Week Study Plan
+-------------------
 Day 1: Python Basics
 Day 2: Operators
 Day 3: If / Else
 ...
+```
 
 ## How to Run
 

@@ -8,6 +8,15 @@ This project demonstrates how an AI Agent can analyze quiz performance and autom
 
 The goal is to provide adaptive learning recommendations for students based on their quiz results.
 
+## Project Structure
+
+```
+adaptive-learning-agent/
+│
+├── adaptive-learning-agent.ipynb
+└── README.md
+```
+
 ---
 
 ## Features

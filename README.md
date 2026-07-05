@@ -34,15 +34,29 @@ The goal is to provide adaptive learning recommendations for students based on t
 
 ## Workflow
 
+```text
 Student Quiz
-↓
+      │
+      ▼
 Gemini Analysis
-↓
+      │
+      ▼
 Strength & Weakness Detection
-↓
-Personalized Feedback
-↓
-One-Week Study Plan
+      │
+      ▼
+Adaptive Feedback
+      │
+      ▼
+Personalized Study Plan
+```
+
+## How to Run
+
+1. Open the notebook in Kaggle.
+2. Add your `GOOGLE_API_KEY` to Kaggle Secrets.
+3. Run all notebook cells.
+4. The AI agent will analyze quiz performance.
+5. Receive personalized adaptive learning feedback.
 
 ---
 

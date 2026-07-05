@@ -1,6 +1,6 @@
 # Adaptive Learning Agent
 
-An AI-powered Study Coach built with Google Gemini 2.5 Flash.
+An AI-powered adaptive learning system that analyzes quiz performance and automatically generates personalized learning feedback and one-week study plans using Google Gemini 2.5 Flash.
 
 ## Project Overview
 
@@ -58,6 +58,38 @@ Adaptive Feedback
       ▼
 Personalized Study Plan
 ```
+
+## Example Output
+
+```text
+Performance Summary
+-------------------
+Score: 2 / 5
+
+Strengths
+----------
+- Motivation
+- Engagement
+
+Weaknesses
+----------
+- Control Flow
+- Functions
+- Python Basics
+
+Recommended Topics
+------------------
+- Variables
+- Loops
+- Functions
+- Lists
+
+Personalized One-Week Study Plan
+--------------------------------
+Day 1: Python Basics
+Day 2: Operators
+Day 3: If / Else
+...
 
 ## How to Run
 

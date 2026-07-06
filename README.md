@@ -59,42 +59,45 @@ Adaptive Feedback
 Personalized Study Plan
 ```
 
-## Example Output
-
-```text
 ============================================================
 ADAPTIVE FEEDBACK
 ============================================================
 
-Performance Summary
--------------------
-Score: 2 / 5
+Hey Alex,
 
-Strengths
-----------
-- Motivation
-- Engagement
+Great job on taking the quiz!
 
-Weaknesses
-----------
+### 1. Performance Summary
+
+You scored 2 out of 5...
+
+### 2. Strengths
+
+- Effort and Engagement
+- Partial Understanding
+- Clear Goal
+
+### 3. Weaknesses
+
+- Basic Data Structures
 - Control Flow
 - Functions
-- Python Basics
 
-What to Study Next
-------------------
-- Variables
-- Loops
-- Functions
-- Lists
+### 4. What to Study Next
 
-One-Week Study Plan
--------------------
-Day 1: Python Basics
-Day 2: Operators
-Day 3: If / Else
+1. Variables
+2. Operators
+3. Conditionals
+4. Loops
+5. Functions
+
+### 5. Revised One-Week Study Plan
+
+Day 1 ...
+Day 2 ...
 ...
-```
+...
+(Continues with a detailed personalized one-week study plan.)
 
 ## How to Run
 

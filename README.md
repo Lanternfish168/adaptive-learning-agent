@@ -108,12 +108,11 @@ Day 3: If / Else
 
 ## Future Improvements
 
-- Memory
+- Long-term Memory
 - RAG (Retrieval-Augmented Generation)
 - Tool Calling
 - Multi-Agent Collaboration
-- Web Interface (Streamlit)
-
+- Streamlit Web Interface
 ---
 
 ## License

@@ -66,7 +66,7 @@ Personalized Study Plan
 ADAPTIVE FEEDBACK
 ============================================================
 
-Hey Alex,
+Hello Student,
 
 Great job on taking the quiz!
 
@@ -101,7 +101,7 @@ Day 2: Data Structures
 Day 3: Control Flow
 ...
 
-(Study plan continues for seven days.)
+(Example output truncated for brevity.)
 ```
 
 ## How to Run
